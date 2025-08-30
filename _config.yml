@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Youssef Wafaey"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Data Analyst skilled in SQL, Python, Power BI, and Tableau, turning complex data into clear insights that drive business decisions and impact."
+  bio    : "I help businesses make smarter decisions by transforming raw data into actionable insights with SQL, Python, and interactive dashboards."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
