@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: "Youssef Wafaey"
+email: "youssefmohamedwafaey@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  "Professional Data Analyst Portfolio showcasing projects in data cleaning, visualization, and business insights. Skilled in SQL, Python, Power BI, Tableau, and Excel. Open to freelance opportunities and data analyst roles."
+twitter_username: ""
+github_username: "Wafaeyy"
 minimal_mistakes_skin: default
 search: true
 
@@ -58,31 +56,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Youssef Wafaey"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Data Analyst skilled in SQL, Python, Power BI, and Tableau, turning complex data into clear insights that drive business decisions and impact."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "www.linkedin.com/in/youssef-wafaey"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Wafaeyy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "www.linkedin.com/in/youssef-wafaey"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Wafaeyy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
